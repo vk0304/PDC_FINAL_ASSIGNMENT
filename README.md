@@ -1,4 +1,6 @@
 Parallel vs Sequential Transaction Validation in Python
+
+
 This repository demonstrates two approaches—sequential and (pseudo)parallel—to validating blockchain transactions in Python. It compares the processing time for a list of transactions when validated one-by-one (sequentially) versus a more parallelized (or concurrent) approach.
 
 Overview
